@@ -1,7 +1,0 @@
-pandas>=1.5
-numpy>=1.22
-matplotlib>=3.5
-openpyxl>=3.0
-statsmodels>=0.13
-mlxtend>=0.21
-pyecharts>=1.9
