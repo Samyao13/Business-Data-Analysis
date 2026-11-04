@@ -1,0 +1,23 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 编辑器/SDK 临时目录
+.sdk_log/
+.sdk_tmp/
+.vscode/
+.idea/
+
+# 超限大文件（Gitee 单文件上限 50MB，由 `python run_all.py` 自动重新生成）
+data/clean/sales_clean.csv
+data/clean/retail.db
+
+# 重复的原始数据（保留 Online Retail.xlsx 即可）
+data/raw/online_retail.zip
+
+# 旧备份文件
+docs/*备份*
+
+# 打包产物本身
+GitHub提交文件包.zip
